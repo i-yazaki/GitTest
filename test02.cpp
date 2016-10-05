@@ -9,3 +9,8 @@ void SubFunc(void)
 {
     printf("hoge");
 }
+
+void SubFunc002_002(void)
+{
+    
+}
